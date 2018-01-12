@@ -19,8 +19,15 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[关于我](pages/about.md)
+[BYOD](pages/byod.md)
+  * [MDM设备管理](pages/byod_mdm.md)
+  * [MAM应用管理](pages/byod_mam.md)
+[无线网络](pages/wlan.md)
+  * [办公相关](pages/wlan_oa.md)
+  * [生产相关](pages/wlan_fis.md)
+[电话总计](pages/pbx.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 

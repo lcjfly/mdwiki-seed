@@ -1,4 +1,4 @@
-# It works! ;-)
+# You get what you paid.
 
 
 ## Section 1
